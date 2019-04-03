@@ -22,9 +22,9 @@ function(message,dialog){
 			var date1 = new Date();
 			var dateMsec = date1.getTime();
 			// Set the date to January 1, at midnight, of the specified year.  
-			//date.setMonth(3);
-			//date.setDate(13);
-			//date.setHours(0, 0, 0, 0);
+			date.setMonth(3);
+			date.setDate(13);
+			date.setHours(0, 0, 0, 0);
 			// Get the difference in milliseconds.
 			var interval = dateMsec - date.getTime();
 			// Calculate how many days the interval contains. Subtract that
