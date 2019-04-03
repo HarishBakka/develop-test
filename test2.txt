@@ -8,3 +8,4 @@ To list of project data:
 4. HTML5
 5. CSS3
 6. Material Design
+7. Angular 7 and CLI
