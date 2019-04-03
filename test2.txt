@@ -9,3 +9,4 @@ To list of project data:
 5. CSS3
 6. Material Design
 7. Angular 7 and CLI
+8. Google Icons and fonts
